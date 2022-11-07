@@ -1,2 +1,6 @@
-<br><a href="https://alevel88.github.io/infovisAlVe/Week1/tableauAa.html">Tableau</a></br>
-<br><a href="https://alevel88.github.io/infovisAlVe/Week1/rawgraph.html">Rawgraph</a></br>
+<h1> Ejercicios semana 1 </h1>
+<ul>
+  <li><a href="https://alevel88.github.io/infovisAlVe/Week1/tableauAa.html">Tableau</a></li>
+  <li><a href="https://alevel88.github.io/infovisAlVe/Week1/rawgraph.html">Rawgraph</li>
+  <li>Milk</li>
+</ul>
