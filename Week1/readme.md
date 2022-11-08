@@ -2,5 +2,6 @@
 <ul>
   <li><a href="https://alevel88.github.io/infovisAlVe/Week1/tableauAa.html">Tableau</a></li>
   <li><a href="https://alevel88.github.io/infovisAlVe/Week1/rawgraph.html">Rawgraph</li>
-  <li>Milk</li>
+  <li><a href="https://alevel88.github.io/infovisAlVe/Week1/Observable.html">Observable</li>
 </ul>
+
