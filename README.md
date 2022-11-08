@@ -1,2 +1,2 @@
-# infovisAlVe
+# infovis
 Curso ITBA
